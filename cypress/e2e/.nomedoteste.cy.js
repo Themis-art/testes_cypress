@@ -17,7 +17,4 @@ describe('Agrupa os test cases', () => {
      cy.visit('/Menu')
 //não é preciso fazer logout pois o comando cy.session apaga e restaura automaticamente a sessão ativa
   });
-  it('Teste', () => {
-    cy.login('/Menu')
-  });
 });
