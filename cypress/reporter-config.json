@@ -1,0 +1,15 @@
+{
+    "reporterEnabled": "mochawesome",
+    "mochawesomeReporterOptions": {
+      "reportDir": "mochawesome-report",
+      "reportFilename": "FILENAMEOFSAVEDREPORT",
+      "quiet": true,
+      "charts": true,
+      "saveAllAttempts": false,
+      "overwrite": false,
+      "videoOnFailOnly": true,
+      "embeddedScreenshots": true,
+      "inlineAssets": true,
+      "saveJson": true
+    }
+  }
